@@ -1,4 +1,4 @@
-package DButil;
+package utils;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
